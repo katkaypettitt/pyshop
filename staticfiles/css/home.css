@@ -1,6 +1,6 @@
 .home {
     background-image: url("https://www.allwhitebackground.com/images/7/Fruit-Juice-Background-Picture.jpg");
-    background-position: center center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -14,21 +14,26 @@
 }
 
 .container-home h2 {
-    font-size: 40px;
-    font-weight: bold;
+    font-size: 60px;
+    font-weight: bolder;
+    font-style: italic;
     padding-bottom: 15px;
+    color: #363636;
 }
 
-.container-home .btn {
-    background-color: #555;
+.container-home .btn-home {
+    background: #505050;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
     padding: 12px 24px;
-    border: none;
     cursor: pointer;
-    border-radius: 5px;
+    border-style: none;
 }
 
-.container-home .btn:hover {
-    background-color: black;
+.container-home .btn-home:hover {
+    background-color: gold;
+    color: black;
+    outline-style: solid;
+    outline-width: 1px;
+    border-style: none;
 }
