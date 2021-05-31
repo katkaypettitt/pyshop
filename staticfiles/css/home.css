@@ -24,8 +24,8 @@
 .container-home .btn-home {
     background: #505050;
     color: white;
-    font-size: 20px;
-    padding: 12px 24px;
+    font-size: 18px;
+    padding: 15px 25px;
     cursor: pointer;
     border-style: none;
 }
@@ -36,4 +36,13 @@
     outline-style: solid;
     outline-width: 1px;
     border-style: none;
+}
+
+.message {
+    font-family: "Homemade Apple";
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 900;
+    line-height: 80px;
 }
