@@ -1,26 +1,20 @@
-.navbar {
-    padding: 8px;
-}
-
 .btn {
     color: white;
+}
+
+.navbar {
+    width: 100%;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .bg-navbar {
     background: #505050;
 }
 
-.left-object {
-    padding-left: 20px;
-}
-
 .middle-object {
-    align-self: flex-end;
-    text-align: center;
-}
-
-.right-object {
-    padding-right: 20px;
+    padding-left: 100px;
 }
 
 li {
