@@ -18,7 +18,3 @@ Please feel free to fork this project and contribute to it!
 - Python 3 (Django)
 - HTML
 - CSS & Bootstrap
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
